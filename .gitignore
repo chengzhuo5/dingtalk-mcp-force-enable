@@ -1,0 +1,17 @@
+# 编译产物
+build/
+*.dll
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# 运行产物
+logs/
+archive/
+*.log
+
+# 临时
+*.tmp
+.DS_Store
